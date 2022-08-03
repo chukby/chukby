@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chukby(Joseph Chukwuemeke Emefieh)
+- 👋 Hi, I’m Joseph Chukwuemeke Emefieh(@chukby)
 - 👀 I’m interested in Python development, Flask, DevOps, Data Science, ML ans AI
 - 🌱 I’m currently learning Full Stack Development and Data science and Data Engineering
 - 💞️ I’m looking to collaborate on Full Stack and Datascience projects
